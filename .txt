@@ -1,0 +1,6 @@
+Rodar o server: json-server --watch server.json -p 3333
+
+npm i reactotron-react-js reactotron-redux
+npm i reactotron-redux-saga
+
+npm i immer
